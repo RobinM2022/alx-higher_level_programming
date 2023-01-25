@@ -16,13 +16,14 @@ The file has a python script that prints the float store in the variable number 
 # [5-print_string.py](https://github.com/RobinM2022/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)
 The file has a python script that prints 3 times a string stored in the variable str, followed by its first 9 characters. The program should be a maximum of 5 lines long and the use of loops and conditional statements is not allowed.
 
-# [6-concat.py](https://github.com/RobinM2022/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)
+# [ster_egg.py6-concat.py](https://github.com/RobinM2022/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)
 The file has a python script that prints Welcome to Holberton School!.
 
 # [7-edges.py](https://github.com/RobinM2022/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)
 The file has a python script that prints the first three letters of the variable "Holberton", the last two letters and the middle word. 
 
-# [8=concat_edges.py] ()
+# [8-concat_edges.py] (https://github.com/RobinM2022/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py)
 The file has a python script that prints "object-oriented programming with Python", followed by a new line.
 
-# [ ] ( )
+# [9-easter_egg.py] ( )
+The file has a pyton script that prints "The Zen of Python," by TimPeters, followed by a new line.
