@@ -8,6 +8,10 @@ The file has a Shell script that runs Python code. The Python code is saved in t
 The file has a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line. The function print is used. 
 
 # [3-print_number.py](https://github.com/RobinM2022/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py)
-The file has a python script that print the integer stored in the variable number, followed by Battery street, followed by a new line. The output of the script is the number, followed by Battery street, followed by a new line. Casting the variable number into a string is not allowed. 
+The file has a python script that prints the integer stored in the variable number, followed by Battery street, followed by a new line. The output of the script is the number, followed by Battery street, followed by a new line. Casting the variable number into a string is not allowed. 
 
+# [4-print_float.py](https://github.com/RobinM2022/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)
+The file has a python script that prints the float store in the variable number with a precision of 2 digits. 
 
+# [5-print_string.py]()
+The file has a python script that prints 3 times a string stored in the variable str, followed by its first 9 characters. The program should be a maximum of 5 lines long and the use of loops and conditional statements is not allowed. 
