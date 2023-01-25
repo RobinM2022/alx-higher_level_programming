@@ -19,7 +19,10 @@ The file has a python script that prints 3 times a string stored in the variable
 # [6-concat.py](https://github.com/RobinM2022/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)
 The file has a python script that prints Welcome to Holberton School!.
 
-# [7-edges.py]()
+# [7-edges.py](https://github.com/RobinM2022/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)
 The file has a python script that prints the first three letters of the variable "Holberton", the last two letters and the middle word. 
 
-# [] ()
+# [8=concat_edges.py] ()
+The file has a python script that prints "object-oriented programming with Python", followed by a new line.
+
+# [ ] ( )
